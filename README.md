@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uPaloma
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning C and Haskell
+- 🌱 I’m currently learning C, Java and Haskell
 
 
 
